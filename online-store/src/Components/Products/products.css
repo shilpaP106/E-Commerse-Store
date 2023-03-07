@@ -1,0 +1,12 @@
+.main-container{
+    position: absolute;
+    top:15%;
+    z-index: -50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    flex-direction: row;
+    flex-wrap:wrap;
+    /* background-image: linear-gradient(#f86594, #ffcaa6); */
+}

@@ -1,0 +1,40 @@
+.cart-container{
+    
+    position: absolute;
+    left:35%;
+    top:15%;
+    z-index: -50;
+    background-color: beige;
+    width:350px;
+    height: max-content;
+    padding: 20px;
+}
+
+.cartbox{
+    margin: 10px;
+    display: flex;
+    justify-content: inherit;
+    align-items: center;
+    
+}
+.btn{
+    float: right;
+    /* margin-right: 10px; */
+}
+.img{
+   width:200px;
+   height:150px;
+}
+
+.detail{
+    margin-left: 5px;
+}
+
+.price{
+  float: right;
+margin: 0px;
+}
+
+.delete{
+    margin-left: 10px;
+}

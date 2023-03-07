@@ -1,0 +1,35 @@
+.nav-container{
+    height:80px;
+    width: 100vw;
+    background-color:pink;
+    display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+    align-items: center;
+    padding-left: 3rem;
+    /* padding-right: 3rem; */
+    position: fixed;
+}
+.game{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+     align-items: center;
+}
+.right-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-right: 3rem;
+}
+
+.cart{
+    margin-right: 10rem;
+}
